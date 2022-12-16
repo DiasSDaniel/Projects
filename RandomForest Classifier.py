@@ -66,9 +66,3 @@ accuracy_score(y_test, y_pred)
 
 balanced_accuracy_score(y_test, y_pred)
 
-
-# In[ ]:
-
-
-
-
