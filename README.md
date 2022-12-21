@@ -1,6 +1,6 @@
 ## Using a Random Forest Classifier to recognize handwritten characters from the Stanford OCR dataset
 
-This project has learning purposes. It is an attempt to create a good multi-class classification model, witch can recognize handwritten letters from the Stanford OCR dataset. By doing so, improving my machine learning skills and ability to apply ML theory to different scenarios.
+This project has learning purposes. It is an attempt to create a good multi-class classification model, which can recognize handwritten letters from the Stanford OCR dataset. By doing so, improving my machine learning skills and ability to apply ML theory to different scenarios.
 
 ### The Stanford OCR dataset
 
